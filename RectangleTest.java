@@ -1,6 +1,16 @@
 import java.awt.Rectangle;
 import java.util.Scanner;
 
+/**
+ * This program creates a rectangle using user-provided width and height,
+ * then calculates and displays the rectangle's area.
+ * 
+ * Activity: ITSC1213_ProblemSolve19
+ * Author: [Your Full Name]
+ * UNC Charlotte ID: [Your ID Number]
+ * UNC Charlotte Email: [YourEmail]@uncc.edu
+ */
+
 public class RectangleTest {
     public static void main(String[] args) {
         // Create Scanner to get input from the user
